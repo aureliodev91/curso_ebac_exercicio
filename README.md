@@ -1,1 +1,1 @@
-# curso_ebac_exercicio
+# curso_ebac_exercicios
